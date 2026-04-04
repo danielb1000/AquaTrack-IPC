@@ -2,4 +2,5 @@
 Repositório para a unidade curricular de Interação Pessoa-Computador.
 
 **Autor:** Daniel B. - 21949
-**Ferramentas:** Word, Balsamiq, Trello.
+
+**Ferramentas:** Word, Balsamiq, Trello. https://trello.com/b/puu6mhzA/ipc
